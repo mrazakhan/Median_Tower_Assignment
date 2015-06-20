@@ -1,0 +1,1 @@
+python calculate_average_degree.py avg_degree_female_gsm.csv degree_gsm_female_cleaned_2014-06-*
